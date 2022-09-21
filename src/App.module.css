@@ -1,0 +1,8 @@
+.title {
+  text-align: center;
+  font-size: 3rem;
+}
+
+.title:hover {
+  color: rgb(4, 205, 241);
+}
